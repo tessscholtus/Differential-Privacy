@@ -1,6 +1,7 @@
 # DP-SGD Methods Comparison
 
 This project compares static and dynamic Differential Privacy (DP) methods using Rényi privacy accounting. The static method is based on Abadi's DP-SGD, while the dynamic method is based on Zhang's entropy-based approach.
+We used non-convex models and compared using different settings as privacy budgets and hyper parameter tuning conditions. 
 
 ## Project Structure
 
