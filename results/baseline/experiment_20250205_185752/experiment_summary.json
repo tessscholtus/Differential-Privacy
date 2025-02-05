@@ -1,0 +1,34 @@
+{
+    "timestamp": "20250205_185752",
+    "results": {
+        "final_epsilon": {
+            "static": 1.265491289986769,
+            "dynamic": 1.265491289986769
+        },
+        "privacy_loss_rate": {
+            "static": 0.03819975357097637,
+            "dynamic": 0.03819975357097637
+        },
+        "effective_noise": {
+            "static": 2.1815671150420783,
+            "dynamic": 1.539407463413531
+        },
+        "final_accuracy": {
+            "static": 0.9533,
+            "dynamic": 0.9429
+        },
+        "final_loss": {
+            "static": {
+                "train": 0.2973915938908855,
+                "test": 0.279473113820859
+            },
+            "dynamic": {
+                "train": 0.3410816627244155,
+                "test": 0.32865235578501595
+            }
+        }
+    },
+    "parameters": {
+        "delta": 1e-05
+    }
+}
